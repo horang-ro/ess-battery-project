@@ -1,0 +1,5 @@
+.venv/
+data/
+*.mat
+.ipynb_checkpoints/
+.DS_Store
