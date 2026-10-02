@@ -1,5 +1,6 @@
 .venv/
-data/
+data/*
+!data/README.md
 *.mat
 .ipynb_checkpoints/
 .DS_Store
